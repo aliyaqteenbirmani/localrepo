@@ -1,6 +1,6 @@
 # This is my Local repo
 
-Branches Commands 
+# Branches Commands 
     git branch  --------> to check branch<br>
     git branch -M main --------> to rename branch<br>
     git checkout <other branch name> --------> to navigate to other branch<br>
